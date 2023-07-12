@@ -34,7 +34,7 @@ python RM_main.py
 3. View the results in `/DVS128_Gesture/RM/Result/` 、 `/DVS128_Gesture/TRM/Result/` or `/DVS128_Gesture/CRM/Result/`.
 
 
-#### Extra
+### Extra
 
 1. `/module/RM.py` defines RM,TRM,CRM layer and `/module/LIF.py`, `LIF_Module.py` defines LIF module.
 2. Explain again if the parameters in the `Config.py` are different from the paper name
