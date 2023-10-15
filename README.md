@@ -53,3 +53,17 @@ RuntimeError: cuDNN error: CUDNN_STATUS_NOT_SUPPORTED. This error may appear if 
 , please reduce the batch-size selected for this experimence.
 
 > see https://github.com/pytorch/pytorch/issues/32564#issuecomment-635062872 for more info.
+
+## Citation
+
+```
+@article{yao2023sparser,
+  title={Sparser spiking activity can be better: Feature Refine-and-Mask spiking neural network for event-based visual recognition},
+  author={Yao, Man and Zhang, Hengyu and Zhao, Guangshe and Zhang, Xiyu and Wang, Dingheng and Cao, Gang and Li, Guoqi},
+  journal={Neural Networks},
+  volume={166},
+  pages={410--423},
+  year={2023},
+  publisher={Elsevier}
+}
+```
